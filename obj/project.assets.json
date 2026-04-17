@@ -85,11 +85,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Windows\\System32\\EQUIFLOW\\EQUIFLOW.csproj",
+      "projectUniqueName": "C:\\Users\\softclan\\Desktop\\EQUIFLOW\\EQUIFLOW.csproj",
       "projectName": "EQUIFLOW",
-      "projectPath": "C:\\Windows\\System32\\EQUIFLOW\\EQUIFLOW.csproj",
+      "projectPath": "C:\\Users\\softclan\\Desktop\\EQUIFLOW\\EQUIFLOW.csproj",
       "packagesPath": "C:\\Users\\softclan\\.nuget\\packages\\",
-      "outputPath": "C:\\Windows\\System32\\EQUIFLOW\\obj\\",
+      "outputPath": "C:\\Users\\softclan\\Desktop\\EQUIFLOW\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
